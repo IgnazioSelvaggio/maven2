@@ -31,4 +31,4 @@ jobs:
       run: mvn -B package --file ./TestMaven/pom.xml
       
     - name: test with Maven
-      run: mvn -DtestSourceDirectory=./TestMaven/src/main/test/java test
+      run: mvn --file ./TestMaven/pom.xml test
