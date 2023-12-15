@@ -6,7 +6,7 @@ public class MyTest {
 
     @Test
     public void testExample() {
-        assertEquals("Hell", "Hello");
+        assertEquals("Hello", "Hello");
 	}
 
 }
