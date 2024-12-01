@@ -6,7 +6,8 @@ public class Start {
 		System.out.println("Ciao2");
 		System.out.println("Ciao3");
 		System.out.println("Ciao4");
-		System.out.println("Ciao5);
+		System.out.println("Ciao5");
+		System.out.println("Ciao6");
 	}
 
 }
