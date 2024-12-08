@@ -11,7 +11,7 @@ public class TestCalcoaltrice {
 		
 		double res = c.somma(5,6);
 		
-		Assert.assertEquals(11, res, 0);
+		Assert.assertEquals(10, res, 0);
 	}
 
 }
